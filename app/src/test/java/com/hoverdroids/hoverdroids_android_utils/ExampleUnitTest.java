@@ -1,4 +1,4 @@
-package com.hoverdroids.hoverdroids_utils;
+package com.hoverdroids.hoverdroids_android_utils;
 
 import org.junit.Test;
 

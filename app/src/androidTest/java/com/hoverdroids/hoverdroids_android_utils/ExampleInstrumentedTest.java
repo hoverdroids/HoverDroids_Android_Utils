@@ -1,4 +1,4 @@
-package com.hoverdroids.hoverdroids_utils;
+package com.hoverdroids.hoverdroids_android_utils;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.hoverdroids.hoverdroids_utils", appContext.getPackageName());
+        assertEquals("com.hoverdroids.hoverdroids_android_utils", appContext.getPackageName());
     }
 }

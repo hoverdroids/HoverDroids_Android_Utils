@@ -1,4 +1,4 @@
-package com.hoverdroids.hoverdroids_utils;
+package com.hoverdroids.hoverdroids_android_utils;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
