@@ -1,1 +1,1 @@
-include ':app', ':math_utils', ':log_utils', ':string_utils'
+include ':app', ':math_utils', ':log_utils', ':string_utils', ':array_utils'
